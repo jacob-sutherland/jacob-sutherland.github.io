@@ -1,5 +1,5 @@
 # Jacob Sutherland
-Hello! My name is Jacob, and I am a first-year Political Science Ph.D. student at the University of California Irvine. Before attending UCI, I received my Bachelor of Arts in Political Science with a concentration in American Politcs from the University of California San Diego.
+Hello! My name is Jacob, and I am a first-year Political Science Ph.D. student at the University of California Irvine. Before attending UCI, I received my Bachelor of Arts in Political Science with a concentration in American Politics from the University of California San Diego.
 
 My research interests are centered around participation and inequality in municipal elections in the United States, as well as voting patterns within the LGBTQ+ community and the intersection of journalism and politics.
 
